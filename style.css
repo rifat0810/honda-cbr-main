@@ -1,0 +1,52 @@
+/* header section */
+.header-bg-color {
+  background-color: #264653;
+}
+.header-padding {
+  padding-left: 100px;
+}
+.button {
+  padding: 10px 48px;
+  background-color: #e76f51;
+  color: white;
+}
+
+/* main section Fetured Bikes */
+.color {
+  color: #e76f51;
+}
+.col-size {
+  width: 288px;
+  height: 250px;
+}
+.grayscale {
+  filter: grayscale(100%);
+}
+/* main section Happy Clients */
+.card-size {
+  width: 323px;
+  height: 480px;
+}
+.img-rounded {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.link-color {
+  color: #23a6f0;
+  text-decoration: none;
+  text-align: center;
+}
+/* main section faq */
+.faq-image {
+  width: 431px;
+  height: 431px;
+}
+/* main section popular brand */
+.bg-popular-brand {
+  background-color: #7854f7;
+}
+.brand-image-align {
+  display: flex;
+  justify-content: center;
+}
